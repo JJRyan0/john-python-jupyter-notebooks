@@ -1,0 +1,4 @@
+applications:
+- name: IIWImageClassifier
+  random-route: true
+  memory: 250M
